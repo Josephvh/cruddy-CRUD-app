@@ -59,7 +59,7 @@ case selection #use user input in case statement for varied functions
 end
 			
 			
-puts birthdays			
+puts birthdays #outputs hash to ensure input has been successfully processed	
 			
 			
 			
